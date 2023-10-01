@@ -8,7 +8,7 @@
 [посилання на мій файл](Git_Task_2/MyWork/Olga_Laikova_Test_plan_mobile_application_MeowMoments.xlsx)
 
 Приклад баг-репортів мобільне тестування:
-[посилання на мій файл](Git_Task_2/MyWork/Laikova_Olga_Bug reports_mobile_device_and_emulator.xlsx)
+[посилання на мій файл](Git_Task_2/MyWork/Laikova_Olga_Bug_reports_mobile_device_and_emulator.xlsx)
 
 Приклад баг-репортів десктопне тестування:
 [посилання на мій файл](Git_Task_2/MyWork/Laikova_Olga_Bug_reports_desktop_UI_UX_testing.xlsx)
