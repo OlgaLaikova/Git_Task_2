@@ -11,4 +11,4 @@
 [посилання на мій файл](Git_Task_2/MyWork/Laikova_Olga_Bug reports_(mobile_device_ and_emulator).xlsx)
 
 Приклад баг-репортів (десктопне тестування)
-[посилання на мій файл](Git_Task_2/MyWork/Laikova_Olga_Bug_reports_(desktop_UI_UX_testing)).xlsx)
+[посилання на мій файл](Git_Task_2/MyWork/Laikova_Olga_Bug_reports_(desktop_UI_UX_testing).xlsx)
