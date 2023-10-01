@@ -1,14 +1,14 @@
 Приклад чекліста:
-https://docs.google.com/spreadsheets/d/16MDvYqG1G7xMkKWXmBdttkG32WIyGRsJxQl9kmylAWk/edit?usp=sharing
+[посилання на мій файл](MyWork/Olga_Laikova_Checklist_(lutik.ua).xlsx)
 
 Приклад тест-кейсів
-https://docs.google.com/spreadsheets/d/1Oxx4RPb97m7sGp_X2VJDYSbzeIfXpEKRN9T-B89EGNY/edit?usp=sharing
+[посилання на мій файл](MyWork/Olga_Laikova_Test_cases_(rozetka.com.ua).xlsx)
 
 Приклад тест плану для мобільного додатку
-https://docs.google.com/spreadsheets/d/1IhjgvpyTv0eu4P9IgEa4kbSKBl5UXRh0deXcjLaBics/edit?usp=sharing
+[посилання на мій файл](MyWork/Olga_Laikova_Test_plan_(mobile_application_MeowMoments).xlsx)
 
 Приклад баг-репортів (мобільне тестування)
-https://docs.google.com/spreadsheets/d/1sakkPRxpTwNnrhXK0091sK6FIDcjdGPwyvzMPWiAoDY/edit?usp=sharing
+[посилання на мій файл](MyWork/Laikova_Olga_Bug reports_(mobile_device_ and_emulator).xlsx)
 
 Приклад баг-репортів (десктопне тестування)
-https://docs.google.com/spreadsheets/d/1ODpIJ5MRxyUTLVsw71WtsZ__k7Czmh2IzSkrHpQ2xBg/edit?usp=sharing
+[посилання на мій файл](MyWork/Laikova_Olga_Bug_reports_(desktop_UI_UX_testing)).xlsx)
